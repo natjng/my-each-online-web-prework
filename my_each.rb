@@ -7,5 +7,3 @@ def my_each(array)
   end
   array
 end
-
-#my_each(array) {|x| puts x }
